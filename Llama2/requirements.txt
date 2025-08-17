@@ -1,0 +1,8 @@
+transformers>=4.35.0
+datasets
+accelerate
+bitsandbytes
+peft
+sentencepiece
+scikit-learn
+pandas

@@ -1,0 +1,601 @@
+review,label
+"This camera captures vibrant colors and sharp images.",positive
+"The earbuds stopped charging after a week.",negative
+"The blanket is warm but sheds lint.",neutral
+"This smartwatch is stylish and functional.",positive
+"The blender blade broke on first use.",negative
+"The notebook paper is fine but a bit thin.",neutral
+"This sofa is very comfortable and the fabric feels premium.",positive
+"The mixer makes a burning smell when used.",negative
+"The desk is sturdy but smaller than I imagined.",neutral
+"This water filter improves taste significantly.",positive
+"The keyboard arrived missing a key.",negative
+"The trash bin is okay but the lid doesn't close tightly.",neutral
+"This hiking backpack has excellent storage space.",positive
+"The phone charger overheats during use.",negative
+"The soap smells nice but melts away too quickly.",neutral
+"This smartwatch responds quickly and is lightweight.",positive
+"The mouse stopped working after a month.",negative
+"The bedsheet is soft but wrinkles easily.",neutral
+"This camera lens captures great low-light shots.",positive
+"The coffee grinder broke after three days.",negative
+"The coaster set is fine but a bit overpriced.",neutral
+"This electric scooter is smooth and fast.",positive
+"The toaster burns bread unevenly.",negative
+"The cushion is comfortable but flattens quickly.",neutral
+"This rice cooker makes perfect rice every time.",positive
+"The projector stopped working within a week.",negative
+"The towel is absorbent but feels rough.",neutral
+"This smartwatch display is crisp and bright.",positive
+"The remote control stopped pairing with the TV.",negative
+"The pencil set is okay but the erasers smudge.",neutral
+"This juicer extracts juice efficiently.",positive
+"The power adapter broke after a few uses.",negative
+"The slippers are soft but wear out quickly.",neutral
+"This grill pan heats evenly.",positive
+"The hair straightener stopped heating.",negative
+"The curtains are fine but shorter than expected.",neutral
+"This laptop is lightweight and powerful.",positive
+"The smartwatch strap broke after a few days.",negative
+"The cutting board is okay but stains easily.",neutral
+"This wireless mouse works perfectly.",positive
+"The washing powder doesn't clean clothes well.",negative
+"The shower mat is fine but slippery.",neutral
+"This oven bakes evenly and is easy to clean.",positive
+"The stapler broke after minimal use.",negative
+"The notebook is fine but the pages tear easily.",neutral
+"This portable speaker has long battery life.",positive
+"The headphones hurt my ears after a short time.",negative
+"The mug is fine but handle gets hot.",neutral
+"This travel bag is spacious and durable.",positive
+"The desk lamp flickers constantly.",negative
+"The glassware is fine but thin.",neutral
+"This jacket keeps me warm in cold weather.",positive
+"The door lock jammed after a few uses.",negative
+"The pillowcase is fine but fabric feels rough.",neutral
+"This smartwatch has accurate GPS tracking.",positive
+"The coffee machine leaks water.",negative
+"The tablecloth is fine but not stain-resistant.",neutral
+"This smartphone has a sleek design and the camera takes stunning pictures, even in low light.",positive
+"The delivery took longer than expected and the box was slightly damaged.",negative
+"The vacuum cleaner works fine, nothing extraordinary but it does the job.",neutral
+"I love the texture of this moisturizer; it makes my skin soft and hydrated.",positive
+"The headphones broke after just two weeks of use, very disappointed.",negative
+"The watch has all the features I need but the strap feels a bit cheap.",neutral
+"The laptop is super fast, boots in seconds, and handles multiple apps easily.",positive
+"The shoes I received were the wrong size and returning them was a hassle.",negative
+"The lamp is okay; it lights up the room but the brightness isn't adjustable.",neutral
+"This coffee maker brews quickly and the coffee tastes amazing.",positive
+"The blender stopped working after three uses.",negative
+"The backpack has enough space but the zippers could be smoother.",neutral
+"The tablet screen is bright and responsive, perfect for reading.",positive
+"The customer service was rude and unhelpful.",negative
+"The chair is comfortable but the color is slightly different from the picture.",neutral
+"This air fryer is easy to clean and cooks food evenly.",positive
+"The fan makes a loud noise even on the lowest setting.",negative
+"The pen writes smoothly but runs out of ink quickly.",neutral
+"The speaker has excellent bass and clear sound quality.",positive
+"The T-shirt fabric shrinks after one wash.",negative
+"The water bottle keeps drinks cold but the lid feels flimsy.",neutral
+"The camera’s zoom is impressive and captures details well.",positive
+"The oven stopped heating properly within a month.",negative
+"The curtain material is fine but wrinkles easily.",neutral
+"This power bank charges my phone multiple times on a single charge.",positive
+"The kettle handle gets too hot to hold safely.",negative
+"The wallet is well-made but a bit smaller than I expected.",neutral
+"This gaming mouse is very responsive and comfortable to use.",positive
+"The refrigerator makes a strange humming noise constantly.",negative
+"The pillow is fine but a bit too soft for my liking.",neutral
+"The smartwatch battery lasts for days and the interface is intuitive.",positive
+"The sandals fell apart after a week of use.",negative
+"The rug looks nice but sheds a lot of fibers.",neutral
+"This hair dryer is powerful and dries hair quickly.",positive
+"The book arrived with torn pages.",negative
+"The picture frame is sturdy but slightly overpriced.",neutral
+"The monitor has vibrant colors and minimal glare.",positive
+"The keyboard keys started sticking after a month.",negative
+"The mug is decent but smaller than advertised.",neutral
+"The mattress is extremely comfortable and supports my back well.",positive
+"The washing machine leaks water during use.",negative
+"The candle smells nice but burns too quickly.",neutral
+"This gaming console loads games fast and has stunning graphics.",positive
+"The printer jams paper every other print.",negative
+"The tote bag is stylish but the straps feel weak.",neutral
+"The grill heats evenly and is easy to clean.",positive
+"The alarm clock stopped working after a few days.",negative
+"The scarf is soft but thinner than I thought.",neutral
+"This smartwatch tracks fitness metrics accurately.",positive
+"The headphones arrived with one ear not working.",negative
+"The phone case fits perfectly but feels slippery.",neutral
+Sofa is soft but loses shape over time.,neutral
+Tablet is smooth but storage space is limited.,neutral
+Stylus is precise but wears down quickly.,neutral
+Camera takes sharp images but autofocus is slow.,neutral
+Mattress is comfortable but too heavy to move.,neutral
+Keyboard is responsive but makes loud clicks.,neutral
+Oven bakes evenly but preheating takes a while.,neutral
+Earbuds have great sound but disconnect occasionally.,neutral
+The desk is spacious but took hours to assemble.,neutral
+Mouse moves smoothly but buttons feel cheap.,negative
+Knife is sharp but the handle is slippery.,neutral
+Photo frame is nice but the screen brightness is low.,neutral
+Bookshelf looks good but is tricky to assemble.,neutral
+Cooler keeps drinks cold but takes up a lot of space.,neutral
+Rice cooker makes fluffy rice but takes longer than expected.,neutral
+Power bank charges fast but is heavy.,neutral
+Grill cooks evenly but cleaning it is a chore.,neutral
+Fitness tracker counts steps accurately but the app is buggy.,neutral
+Camera zoom works but images are grainy.,neutral
+Mouse scroll wheel sticks sometimes.,neutral
+Desk is functional but feels bulky.,neutral
+Rug is soft but sheds a lot.,neutral
+Watch strap is comfortable but fades with time.,neutral
+Humidifier works but needs frequent refills.,neutral
+Toolbox holds tools but the latch feels weak.,neutral
+Camera is waterproof but bulky.,neutral
+Smartwatch has good features but lags occasionally.,neutral
+Controller is responsive but small.,neutral
+Laptop is slim but the keyboard feels cramped.,neutral
+Pen writes smoothly but runs out of ink quickly.,neutral
+Hoodie is soft but shrinks after washing.,neutral
+Sunglasses look great but scratch easily.,negative
+Backpack has plenty of space but straps dig in.,neutral
+Bike seat is cushioned but slippery.,neutral
+Grinder works fine but is loud.,neutral
+Flashlight is bright but drains batteries fast.,neutral
+Fan cools well but vibrates on high speed.,neutral
+Lamp looks stylish but tips over easily.,neutral
+Keyboard types well but is noisy.,neutral
+Mouse clicks well but feels cheap.,negative
+Oven bakes evenly but the timer is inaccurate.,neutral
+Toaster toasts bread evenly but slowly.,neutral
+Chair supports the back but the wheels squeak.,neutral
+Gloves are warm but too tight.,neutral
+Phone feels premium but slips easily.,neutral
+Watch is accurate but plain in design.,neutral
+Speaker is loud but distorts at high volume.,neutral
+Pan cooks evenly but the handle gets hot.,neutral
+TV has good picture quality but the menu is slow.,neutral
+Lamp is bright but the cord is short.,neutral
+Mat is comfortable but slides on smooth floors.,neutral
+Case protects well but adds bulk.,neutral
+"Terrible experience, wouldn't buy again.",negative
+"Terrible experience, wouldn't buy again.",negative
+Not as described. Very disappointed.,negative
+Meh. Might look for alternatives next time.,neutral
+Absolutely loved this product! Highly recommend.,positive
+Waste of money. Poor quality.,negative
+Decent for the price but has limitations.,neutral
+Absolutely loved this product! Highly recommend.,positive
+"Terrible experience, wouldn't buy again.",negative
+"Fantastic performance, smooth and efficient.",positive
+Decent for the price but has limitations.,neutral
+Not as described. Very disappointed.,negative
+Meh. Might look for alternatives next time.,neutral
+Decent for the price but has limitations.,neutral
+"Terrible experience, wouldn't buy again.",negative
+Not as described. Very disappointed.,negative
+Meh. Might look for alternatives next time.,neutral
+"Average experience, not great not terrible.",neutral
+Decent for the price but has limitations.,neutral
+Not as described. Very disappointed.,negative
+Waste of money. Poor quality.,negative
+Waste of money. Poor quality.,negative
+Great packaging and easy to use.,positive
+"Fantastic performance, smooth and efficient.",positive
+Very good quality and fast delivery.,positive
+Waste of money. Poor quality.,negative
+Decent for the price but has limitations.,neutral
+Meh. Might look for alternatives next time.,neutral
+Very good quality and fast delivery.,positive
+Not as described. Very disappointed.,negative
+Absolutely loved this product! Highly recommend.,positive
+Shipping was delayed and the product was damaged.,negative
+"Average experience, not great not terrible.",neutral
+"Average experience, not great not terrible.",neutral
+"Terrible experience, wouldn't buy again.",negative
+Shipping was delayed and the product was damaged.,negative
+Exceeded my expectations. Worth every penny.,positive
+"Average experience, not great not terrible.",neutral
+Product stopped working within a week.,negative
+Decent for the price but has limitations.,neutral
+Product stopped working within a week.,negative
+Waste of money. Poor quality.,negative
+Absolutely loved this product! Highly recommend.,positive
+Meh. Might look for alternatives next time.,neutral
+Not as described. Very disappointed.,negative
+Meh. Might look for alternatives next time.,neutral
+Great packaging and easy to use.,positive
+Very good quality and fast delivery.,positive
+Very good quality and fast delivery.,positive
+Decent for the price but has limitations.,neutral
+"Fantastic performance, smooth and efficient.",positive
+"Average experience, not great not terrible.",neutral
+Decent for the price but has limitations.,neutral
+Not as described. Very disappointed.,negative
+Meh. Might look for alternatives next time.,neutral
+"Fantastic performance, smooth and efficient.",positive
+Absolutely loved this product! Highly recommend.,positive
+Shipping was delayed and the product was damaged.,negative
+Not as described. Very disappointed.,negative
+Great packaging and easy to use.,positive
+Decent for the price but has limitations.,neutral
+Shipping was delayed and the product was damaged.,negative
+Exceeded my expectations. Worth every penny.,positive
+Absolutely loved this product! Highly recommend.,positive
+Waste of money. Poor quality.,negative
+Not as described. Very disappointed.,negative
+"Fantastic performance, smooth and efficient.",positive
+"Average experience, not great not terrible.",neutral
+"Terrible experience, wouldn't buy again.",negative
+"Terrible experience, wouldn't buy again.",negative
+Exceeded my expectations. Worth every penny.,positive
+"Average experience, not great not terrible.",neutral
+Meh. Might look for alternatives next time.,neutral
+"Fantastic performance, smooth and efficient.",positive
+Absolutely loved this product! Highly recommend.,positive
+Waste of money. Poor quality.,negative
+Great packaging and easy to use.,positive
+Very good quality and fast delivery.,positive
+"Average experience, not great not terrible.",neutral
+"It's okay, does the job but nothing special.",neutral
+"Shipping was delayed and the product was damaged.",negative
+"Might look for alternatives next time.",neutral
+"Not as described. Very disappointed.",negative
+"Product is fine but delivery was late.",neutral
+"Very good quality and fast delivery.",positive
+"Product is fine but delivery was late.",neutral
+"Fantastic performance, smooth and efficient.",positive
+"Shipping was delayed and the product was damaged.",negative
+"Average experience, not great not terrible.",neutral
+"Very good quality and fast delivery.",positive
+"It's okay, does the job but nothing special.",neutral
+"Meh. Might look for alternatives next time.",neutral
+"Fantastic performance, smooth and efficient.",positive
+"Product is fine but delivery was late.",neutral
+"Exceeded my expectations. Worth every penny.",positive
+"It's okay, does the job but nothing special.",neutral
+"It's okay, does the job but nothing special.",neutral
+"Decent for the price but has limitations.",neutral
+"Absolutely loved this product! Highly recommend.",positive
+"Waste of money. Poor quality.",negative
+"The quality exceeded all my expectations.",positive
+"Very slow shipping. Disappointed overall.",negative
+"It's okay, but not the best I've used.",neutral
+"I would definitely purchase this again.",positive
+"The product arrived damaged and not working.",negative
+"Fair price and decent build quality.",neutral
+"Amazing product, works exactly as described.",positive
+"Received the wrong item, now waiting for replacement.",negative
+"Not as simple to use as advertised.",neutral
+"This is my new favorite gadget!",positive
+"Packaging was poor, item got scratched.",negative
+"It's functional but feels a bit cheap.",neutral
+"Quick delivery and excellent customer service.",positive
+"The worst product I've ever bought.",negative
+"Meh, it's just alright.",neutral
+"Impressed with how well it performs.",positive
+"The color was totally different from the picture.",negative
+"Not as sturdy as I had hoped.",neutral
+"Loved every aspect of this purchase.",positive
+"Stopped working after a few days.",negative
+"The experience was neither good nor bad.",neutral
+"Just what I needed, highly recommend!",positive
+"Don't waste your money on this.",negative
+"Fits the description but nothing special.",neutral
+"Incredible quality and value for money.",positive
+"Came with missing parts and was unusable.",negative
+"You get what you pay for.",neutral
+"Exceeded all my expectations, fantastic!",positive
+"Customer support was unhelpful.",negative
+"It's alright for the price.",neutral
+"So happy with this—works perfectly!",positive
+"Never received my order.",negative
+"Average product, nothing stands out.",neutral
+"Delivered on time and works great.",positive
+"Completely useless, doesn't work at all.",negative
+"Decent, but could be improved.",neutral
+"My best purchase this year.",positive
+"Broke on first use.",negative
+"Expected a bit more, honestly.",neutral
+"I will buy again for sure.",positive
+"Very disappointing experience.",negative
+"Pretty standard, nothing surprising.",neutral
+"Extremely satisfied with the product.",positive
+"Faulty right out of the box.",negative
+"Works, but there are better options.",neutral
+"Really happy—much better than expected.",positive
+"Does not function as described.",negative
+"Quality is average at best.",neutral
+"Five stars for this amazing product!",positive
+"Came late and not in good shape.",negative
+"Plain and simple product.",neutral
+"Top-notch quality, happy customer!",positive
+"Refund process was tedious and slow.",negative
+"It's passable for everyday use.",neutral
+"Delighted with my purchase.",positive
+"Arrived in a damaged box.",negative
+"Inconclusive, haven't decided how I feel.",neutral
+"Fantastic product, will recommend!",positive
+"Doesn't match description or images.",negative
+"Meets basic needs only.",neutral
+"Extremely good quality, better than expected.",positive
+"Delivery was delayed and communication was poor.",negative
+"It suffices for now.",neutral
+"Really enjoy using this.",positive
+"Does not live up to the hype.",negative
+"Works as expected, no complaints.",neutral
+"Outstanding value for money.",positive
+"Lack of support ruined it.",negative
+"Just another average product.",neutral
+"Super quick and efficient.",positive
+"Two parts missing from the box.",negative
+"Nothing to write home about.",neutral
+"Couldn't be happier!",positive
+"Waste of money, broke quickly.",negative
+"Neutral opinion, does the job.",neutral
+"Brilliant quality! Will order more.",positive
+"Defective item received.",negative
+"Basic, but works fine.",neutral
+"Incredible purchase!",positive
+" totally not worth the price.",negative
+"It works, but expected more.",neutral
+"Amazing—worth every penny.",positive
+"Never worked, total waste.",negative
+"It's fine, nothing unique.",neutral
+"So so happy I found this.",positive
+"Terrible customer support.",negative
+"Meets expectations, nothing extra.",neutral
+"Best purchase I've made lately.",positive
+"Failed almost immediately.",negative
+"Completely average.",neutral
+"High quality and stylish.",positive
+"Broke after short use.",negative
+"Does the job, not outstanding.",neutral
+"Very pleased with everything.",positive
+"Packaged poorly, item was scratched.",negative
+"Neither good nor bad.",neutral
+"Loved it, highly recommend.",positive
+"Not up to the mark.",negative
+"Average build, works okay.",neutral
+"Fantastic quality for the price.",positive
+"Stopped working after a week.",negative
+"Mediocre experience.",neutral
+"This exceeded what I hoped for.",positive
+"Arrived with broken parts.",negative
+"Mediocre but serviceable.",neutral
+"Superb performance!",positive
+"Waste of time and money.",negative
+"Good enough for regular use.",neutral
+"Would recommend to everyone!",positive
+"Not as shown, disappointed.",negative
+"It's okay, not great.",neutral
+"So happy with the quality!",positive
+"Barely functional when it arrived.",negative
+"As expected, no surprises.",neutral
+"It's excellent—love it.",positive
+"Dissatisfied with the end result.",negative
+"Typical and ordinary.",neutral
+"Great craftsmanship and detail.",positive
+"Lost functionality very quickly.",negative
+"Neutral, doesn't stand out.",neutral
+"Best deal I've found.",positive
+"Expected more from this brand.",negative
+"Just your average item.",neutral
+"Absolutely thrilled!",positive
+"Came incomplete and late.",negative
+"Meets some expectations.",neutral
+"Couldn't be more pleased.",positive
+"Arrived dead, needed replacement.",negative
+"Performs okay, nothing beyond.",neutral
+"Easy to use, great features.",positive
+"Never buying from here again.",negative
+"Can't complain, does its job.",neutral
+"In love with this product.",positive
+"Bad experience overall.",negative
+"Unremarkable product.",neutral
+"Perfect for my needs.",positive
+"Manufacturing defect made it unusable.",negative
+"Meets minimum expectations.",neutral
+"Everything I wanted and more.",positive
+"Below expectations, not satisfied.",negative
+"Neutral experience.",neutral
+"Works smoothly and efficiently.",positive
+"Wasted my hard-earned money.",negative
+"Decently practical.",neutral
+"Top quality, great results.",positive
+"Broke after just one use.",negative
+"Middling quality.",neutral
+"The best I've used so far.",positive
+"Arrived with cracks.",negative
+"Pretty ordinary.",neutral
+"Very good product.",positive
+"I'm returning this.",negative
+"Nothing special about it.",neutral
+"Exceptional!",positive
+"Ruined after washing once.",negative
+"As average as it gets.",neutral
+"High performance, looks great.",positive
+"Out of order upon arrival.",negative
+"Uninteresting experience.",neutral
+"Highly recommended!",positive
+"Dissatisfied with performance.",negative
+"Practically adequate.",neutral
+"Absolutely perfect!",positive
+"Came damaged.",negative
+"Overall, neutral experience.",neutral
+"Would buy again.",positive
+"Quickly stopped working.",negative
+"Sufficient for now.",neutral
+"The best purchase!",positive
+"Not worth the money.",negative
+"Standard quality.",neutral
+"Really impressed!",positive
+"Never buying again.",negative
+"Meh, okay.",neutral
+"Perfect condition.",positive
+"Terrible build quality.",negative
+"Not impressed.",neutral
+"100% Satisfaction.",positive
+"Arrived late and broken.",negative
+"Passable.",neutral
+"Really loved it.",positive
+"Defective.",negative
+"So-so product.",neutral
+"Just as described!",positive
+"Stopped working.",negative
+"Adequate.",neutral
+"Remarkable product!",positive
+"Do not recommend.",negative
+"Average experience.",neutral
+"Absolutely recommend!",positive
+"Would not recommend.",negative
+"Nothing new.",neutral
+"Exceeded expectations!",positive
+"Did not like it.",negative
+"Neutral overall.",neutral
+"Phenomenal.",positive
+"Issue with the unit.",negative
+"Not distinctive.",neutral
+"Absolutely blown away!",positive
+"Returned the product.",negative
+"So-so experience.",neutral
+"Can't get enough!",positive
+"Arrived faulty.",negative
+"Meh.",neutral
+"Would definitely buy again.",positive
+"Not good.",negative
+"Doesn't wow me.",neutral
+"Pleasantly surprised.",positive
+"Problems from the start.",negative
+"No strong opinions.",neutral
+"Super easy to use.",positive
+"Disappointing.",negative
+"It’s average.",neutral
+"My favorite!",positive
+"Damaged goods.",negative
+"Indistinct.",neutral
+"Wonderful!",positive
+"Waste of time.",negative
+"Just regular.",neutral
+"Completely satisfied.",positive
+"Useless.",negative
+"Couldn't care less.",neutral
+"Better than expected.",positive
+"Total letdown.",negative
+"Ordinary.",neutral
+"Superb!",positive
+"Not worth it.",negative
+"Merely okay.",neutral
+"Heavily impressed.",positive
+"Broke easily.",negative
+"As expected.",neutral
+"Love it!",positive
+"Really dissatisfied.",negative
+"No big deal.",neutral
+"Fantastic!",positive
+"Missing parts.",negative
+"So-so.",neutral
+"Great purchase.",positive
+"Parts broken.",negative
+"Pretty typical.",neutral
+"Outstanding!",positive
+"Least favorite purchase.",negative
+"Nothing amazing.",neutral
+"Delighted!",positive
+"Didn't last.",negative
+"Reasonable.",neutral
+"Best ever!",positive
+"Arrived late.",negative
+"Eh.",neutral
+"Exactly right.",positive
+"Didn’t function.",negative
+"Dull.",neutral
+"Perfectly meets my needs.",positive
+"Unsatisfactory.",negative
+"Neither here nor there.",neutral
+"Would order again.",positive
+"Faulty.",negative
+"Mediocre.",neutral
+"Excellent buy!",positive
+"Would not buy again.",negative
+"Fine.",neutral
+"Wonderful choice!",positive
+"Poor quality.",negative
+"Bland.",neutral
+"Super happy!",positive
+"Needed replacement.",negative
+"Nothing special.",neutral
+"Exceeded my expectations!",positive
+"Unusable.",negative
+"Middling.",neutral
+"Thrilled with the service!",positive
+"Arrived with defects.",negative
+"Nothing exciting.",neutral
+"Love everything about it!",positive
+"Problematic.",negative
+"Not much to say.",neutral
+"So satisfied!",positive
+"Breaks too easily.",negative
+"Very okay.",neutral
+"This was amazing!",positive
+"Regret buying.",negative
+"No real downside.",neutral
+"Going to recommend to friends.",positive
+"Package lost.",negative
+"Uninspiring.",neutral
+"Perfect addition!",positive
+"Not working.",negative
+"Not much to mention.",neutral
+"Beyond my expectations!",positive
+"Completely failed.",negative
+"Just fine.",neutral
+"Incredibly happy.",positive
+"Doesn’t do what it says.",negative
+"Neutral experience overall.",neutral
+"Astounding!",positive
+"Stopped after a week.",negative
+"Nothing out of the ordinary.",neutral
+"Couldn’t ask for more!",positive
+"Unsatisfying.",negative
+"So-so quality.",neutral
+"Super satisfied!",positive
+"Items missing.",negative
+"Not sure yet.",neutral
+"Exactly what I hoped for.",positive
+"Doesn't meet standards.",negative
+"Adequate performance.",neutral
+"Truly the best!",positive
+"Not reliable.",negative
+"Not bad nor great.",neutral
+"Spot on!",positive
+"Unacceptable quality.",negative
+"Fair product.",neutral
+"Extremely happy!",positive
+"Took too long.",negative
+"Nothing wowed me.",neutral
+"Absolutely perfect!",positive
+"Broke in a month.",negative
+"No impression.",neutral
+"Best decision!",positive
+"Not functional.",negative
+"Somewhat satisfied.",neutral
+"Really incredible!",positive
+"Defective again.",negative
+"Satisfactory.",neutral
+"Wonderful deal!",positive
+"Returned immediately.",negative
+"Boring.",neutral
+"Would happily get again.",positive
+"Lousy.",negative
+"Nothing exceptional.",neutral
+"Totally satisfied!",positive
+"Does not last.",negative
+"Entirely ordinary.",neutral
+"Superb deal!",positive
+"Required repair.",negative
+"Very plain.",neutral
+"The best experience!",positive
+"Poorly made.",negative
+"Mediocre at best.",neutral
+
